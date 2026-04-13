@@ -60,21 +60,24 @@ YouTube, Khan Academy, fiches en ligne... les élèves ont accès à beaucoup de
 ## Matrice SWOT
 
 ```
-┌─────────────────────────────────┬─────────────────────────────────┐
-│           FORCES                │          FAIBLESSES             │
-│                                 │                                 │
-│  Flexibilité & visio            │  Dépendance à internet          │
-│  Cours 100% personnalisés       │  Risque de décrochage           │
-│  Suivi mensuel avec parents     │  Faible notoriété               │
-│  Coûts de structure bas         │                                 │
-├─────────────────────────────────┼─────────────────────────────────┤
-│         OPPORTUNITÉS            │            MENACES              │
-│                                 │                                 │
-│  Marché du e-learning en boom   │  Concurrence très présente      │
-│  Zones rurales sous-desservies  │  Guerre des prix                │
-│  Parents + impliqués            │  Contenus gratuits en ligne     │
-│  Partenariats possibles         │                                 │
-└─────────────────────────────────┴─────────────────────────────────┘
+                    POSITIF                        NÉGATIF
+          ┌──────────────────────────────┬──────────────────────────────┐
+          │          FORCES              │         FAIBLESSES           │
+ INTERNE  │                              │                              │
+          │  + Flexibilité (visio)       │  - Dépendance à internet     │
+          │  + Cours 100% personnalisés  │  - Risque de décrochage      │
+          │  + Suivi mensuel parents     │  - Faible notoriété          │
+          │  + Coûts de structure bas    │  - Recrutement des profs     │
+          │  + Disponibilité étendue     │  - Relation distante         │
+          ├──────────────────────────────┼──────────────────────────────┤
+          │        OPPORTUNITÉS          │           MENACES            │
+ EXTERNE  │                              │                              │
+          │  + Marché e-learning en boom │  - Concurrence très présente │
+          │  + Zones rurales mal couvert.│  - Guerre des prix           │
+          │  + Parents + impliqués       │  - Contenus gratuits en ligne│
+          │  + Partenariats possibles    │  - Réglementation (RGPD)     │
+          │  + Post-Covid : habitudes    │  - Pression des indépendants │
+          └──────────────────────────────┴──────────────────────────────┘
 ```
 
 ---
