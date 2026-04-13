@@ -83,6 +83,6 @@ YouTube, Khan Academy, fiches en ligne... les élèves ont accès à beaucoup de
 
 Ce projet a un vrai potentiel. Le marché est là, les familles sont prêtes, et notre modèle répond à un besoin réel : un suivi personnalisé, humain et flexible.
 
-Ce qui peut nous faire gagner face à la concurrence, c'est pas le prix — c'est **le lien humain**. Le suivi avec les parents est notre argument numéro 1. C'est ça qu'on doit mettre en avant dans notre communication marketing.
+Ce qui peut nous faire gagner face à la concurrence, c'est pas le prix c'est **le lien humain**. Le suivi avec les parents est notre argument numéro 1. C'est ça qu'on doit mettre en avant dans notre communication marketing.
 
 Le défi principal sera de se faire connaître rapidement et de prouver qu'apprendre à distance peut être aussi efficace, voire mieux, qu'en présentiel.
