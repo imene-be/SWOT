@@ -12,4 +12,4 @@ Cette société propose à ses clients des cours personnalisables essentiellemen
 
 ## Contenu du dossier
 
-- `analyse_swot.md` — la réponse complète à l'exercice (diagnostic interne, diagnostic externe, matrice SWOT et conclusion)
+- `analyse_swot.md` : la réponse complète à l'exercice (diagnostic interne, diagnostic externe, matrice SWOT et conclusion)
